@@ -1,4 +1,4 @@
-<?php $active3 = "active"; ?>
+?php $active3 = "active"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
